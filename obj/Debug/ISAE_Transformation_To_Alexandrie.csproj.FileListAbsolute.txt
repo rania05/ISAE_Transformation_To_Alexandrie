@@ -1,0 +1,8 @@
+C:\Users\Archimed\source\repos\ISAE_Transformation_To_Alexandrie\bin\Debug\ISAE_Transformation_To_Alexandrie.exe.config
+C:\Users\Archimed\source\repos\ISAE_Transformation_To_Alexandrie\bin\Debug\ISAE_Transformation_To_Alexandrie.exe
+C:\Users\Archimed\source\repos\ISAE_Transformation_To_Alexandrie\bin\Debug\ISAE_Transformation_To_Alexandrie.pdb
+C:\Users\Archimed\source\repos\ISAE_Transformation_To_Alexandrie\obj\Debug\ISAE_Transformation_To_Alexandrie.csproj.AssemblyReference.cache
+C:\Users\Archimed\source\repos\ISAE_Transformation_To_Alexandrie\obj\Debug\ISAE_Transformation_To_Alexandrie.csproj.SuggestedBindingRedirects.cache
+C:\Users\Archimed\source\repos\ISAE_Transformation_To_Alexandrie\obj\Debug\ISAE_Transformation_To_Alexandrie.csproj.CoreCompileInputs.cache
+C:\Users\Archimed\source\repos\ISAE_Transformation_To_Alexandrie\obj\Debug\ISAE_Transformation_To_Alexandrie.exe
+C:\Users\Archimed\source\repos\ISAE_Transformation_To_Alexandrie\obj\Debug\ISAE_Transformation_To_Alexandrie.pdb
